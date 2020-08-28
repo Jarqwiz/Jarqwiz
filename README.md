@@ -1,3 +1,3 @@
 ### Hi there! :wave:
 
-My name is _Jarkko_, and I'm coding some stuff just for fun.
+My name is _Jarkko_, and I code apps and games for fun.
