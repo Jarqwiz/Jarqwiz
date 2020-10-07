@@ -1,3 +1,3 @@
-### Hi there! :wave:
+## Jarqwiz
 
-My name is Jarkko (a.k.a. _Jarqwiz_), and I code apps and games for fun.
+An enthusiastic programmer who knows no limits for wisdom and art.
