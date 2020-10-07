@@ -1,3 +1,3 @@
 ## Jarqwiz
 
-An enthusiastic programmer who knows no limits for wisdom and art.
+Any sufficiently advanced software written by me is indistinguishable from magic.
