@@ -1,7 +1,7 @@
 # [![Jarqwiz](jarqwiz.svg)][jarqwiz]
 
 [![HitCount](http://hits.dwyl.com/Jarqwiz/Jarqwiz.svg)](http://hits.dwyl.com/Jarqwiz/Jarqwiz)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-red?style=flat-square)](https://github.com/Jarqwiz?tab=repositories)
+[![Open Source](https://img.shields.io/badge/Open-Source-red?style=flat-square&logo=open-source-initiative)](https://github.com/Jarqwiz?tab=repositories)
 [![OS](https://img.shields.io/badge/OS-Arch%20BTW-blue?style=flat-square&logo=arch-linux)](https://www.archlinux.org)
 [![Ask me anything](https://img.shields.io/badge/Ask%20me-anything-orange?style=flat-square&logo=github)](https://github.com/Jarqwiz/Jarqwiz/issues/new)
 [![Followers](https://img.shields.io/github/followers/Jarqwiz?logo=github&style=flat-square)](https://github.com/Jarqwiz?tab=followers)
