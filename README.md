@@ -14,6 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jarqwiz's github stats" src="https://github-readme-stats.vercel.app/api?username=Jarqwiz&show_icons=true&count_private=true&custom_title=My+Stats"></a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarqwiz&layout=compact"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jarqwiz's github stats" src="https://github-readme-stats.vercel.app/api?username=Jarqwiz&show_icons=true&count_private=true&custom_title=My+Stats&theme=omni"></a><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarqwiz&layout=compact&theme=omni"></a>
 </p>
